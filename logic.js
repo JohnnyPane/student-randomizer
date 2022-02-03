@@ -108,173 +108,180 @@ $(document).ready(function() {
 
   var data = [
     {
-      label: "Abdirahman Adam",
-      value: '',
-      question: "Abdirahman Adam"
-    }, // padding
-    { label: "Amin Bashir", value: '', question: "Amin Bashir" }, //font-family
-    {
-      label: "Amy Pastorius",
-      value: '',
-      question: "Amy Pastorius"
-    }, //color
-    {
-      label: "Anna Fotis",
-      value: '',
-      question: "Anna Fotis"
-    }, //font-weight
-    {
-      label: "Asli Farah",
-      value: '',
-      question: "Asli Farah"
-    }, //font-size
-    {
-      label: 'Ayubu Abdirahman',
-      value: '',
-      question: 'Ayubu Abdirahman'
-    }, //nesting
-    {
-      label: 'Bao Xiong',
-      value: '',
-      question: 'Bao Xiong'
-    }, //bottom
-    {
-      label: 'Betiel Mengesha',
-      value: '',
-      question: 'Betiel Mengesha'
-    }, //sans-serif
-    {
-      label: 'Brandon Norrgard',
-      value: '',
-      question: 'Brandon Norrgard'
-    }, //period
-    {
-      label: 'Bryan Thaoxaochay',
-      value: '',
-      question: 'Bryan Thaoxaochay'
-    }, //<body>
-    {
-      label: "Caitlin Collins",
-      value: '',
-      question: "Caitlin Collins"
+      label: "Muktar Ahmed",
+      value: "",
+      question: "Muktar Ahmed",
     },
     {
-      label: 'Calvin Jacobsen',
-      value: '',
-      question: 'Calvin Jacobsen'
-    }, //margin
-    { label: 'Carolyn Hilpisch', value: '', question: 'Carolyn Hilpisch' }, //< >
-    { label: 'Carter Venne', value: '', question: 'Carter Venne' }, //<!DOCTYPE html>
+      label: "Nahom Assefa",
+      value: "",
+      question: "Nahom Assefa",
+    },
     {
-      label: 'Chao SengSai Ly',
-      value: '',
-      question: 'Chao SengSai Ly'
-    }, //<head>
+      label: "Michael Bahl",
+      value: "",
+      question: "Michael Bahl",
+    },
     {
-      label: 'Chris Gutierrez',
-      value: '',
-      question: 'Chris Gutierrez'
-    }, // colon <style>
+      label: "Jojo Bautista",
+      value: "",
+      question: "Jojo Bautista",
+    },
     {
-      label: 'Christopher Boisjoli',
-      value: '',
-      question: 'Christopher Boisjoli'
-    }, // .html
+      label: "Evan Carlson",
+      value: "",
+      question: "Evan Carlson",
+    },
     {
-      label: 'Derek Clark',
-      value: '',
-      question: 'Derek Clark'
-    }, // HTML
+      label: "Derek Clark",
+      value: "",
+      question: "Derek Clark",
+    },
     {
-      label: 'Francis Jeffries',
-      value: '',
-      question: 'Francis Jeffries'
-    }, // CSS
+      label: "Adair Conlin",
+      value: "",
+      question: "Adair Conlin",
+    },
     {
-      label: 'Frank Merchlewitz',
-      value: '',
-      question: 'Frank Merchlewitz'
-    }, // JavaScript
+      label: "Tavian Dawson",
+      value: "",
+      question: "Tavian Dawson",
+    },
     {
-      label: 'Helen Lindberg',
-      value: '',
-      question: 'Helen Lindberg'
-    }, // border
+      label: "Bryan Durushia",
+      value: "",
+      question: "Bryan Durushia",
+    },
     {
-      label: 'Jayden Watts',
-      value: '',
-      question: 'Jayden Watts'
-    }, //semi-colon//100%
+      label: "Ronya Gettis",
+      value: "",
+      question: "Ronya Gettis",
+    },
     {
-      label: 'Jim Nguyen',
-      value: '',
-      question: 'Jim Nguyen'
-    }, //100%
+      label: "Adam Gondorchin",
+      value: "",
+      question: "Adam Gondorchin",
+    },
     {
-      label: 'Josephine Collins',
-      value: '',
-      question: 'Josephine Collins'
-    }, //100%
+      label: "Kieran Hannagan",
+      value: "",
+      question: "Kieran Hannagan",
+    },
     {
-      label: 'Justin Rovnak',
-      value: '',
-      question: 'Justin Rovnak'
-    }, //100%
+      label: "Abdinasir Hassan",
+      value: "",
+      question: "Abdinasir Hassan",
+    },
     {
-      label: 'Kyle Kleven',
-      value: '',
-      question: 'Kyle Kleven'
-    }, //100%
+      label: "Greg Lanctot",
+      value: "",
+      question: "Greg Lanctot",
+    },
     {
-      label: 'Lita Beach',
-      value: '',
-      question: 'Lita Beach'
-    }, //100%
+      label: "William Lower",
+      value: "",
+      question: "William Lower",
+    },
     {
-      label: 'Markki Meyer',
-      value: '',
-      question: 'Markki Meyer'
-    }, //100%
+      label: "Abdirizak Mahomed",
+      value: "",
+      question: "Abdirizak Mahomed",
+    },
     {
-      label: 'Melissa Hoang',
-      value: '',
-      question: 'Melissa Hoang'
-    }, //100%
+      label: "Daniel Maldonado",
+      value: "",
+      question: "Daniel Maldonado",
+    },
     {
-      label: 'Mitchell Lindquist',
-      value: '',
-      question: 'Mitchell Lindquist'
-    }, //100%
+      label: "Andrew Mcneal",
+      value: "",
+      question: "Andrew Mcneal",
+    },
     {
-      label: 'Natalie Sasseville-praska',
-      value: '',
-      question: 'Natalie Sasseville-praska'
-    }, //100%
+      label: "Krista Meyer",
+      value: "",
+      question: "Krista Meyer",
+    },
     {
-      label: 'Noah Schlag',
-      value: '',
-      question: 'Noah Schlag'
-    }, //100%
+      label: "Molly Montgomery",
+      value: "",
+      question: "Molly Montgomery",
+    },
     {
-      label: 'Omaur Bliss',
-      value: '',
-      question: 'Omaur Bliss'
-    }, //100%
+      label: "Mahdi Moussa",
+      value: "",
+      question: "Mahdi Moussa",
+    },
     {
-      label: 'Sammy Russ',
-      value: '',
-      question: 'Sammy Russ'
-    }, //100%
+      label: "Zeeshan Mufti",
+      value: "",
+      question: "Zeeshan Mufti",
+    },
     {
-      label: 'Samuel Meier',
-      value: '',
-      question: 'Samuel Meier'
-    }, //100%
+      label: "Oscar Narvaez-claman",
+      value: "",
+      question: "Oscar Narvaez-claman",
+    },
     {
-      label: 'Todd Malone',
-      value: '',
-      question: 'Todd Malone'
-    }
+      label: "Sophia Nguyen",
+      value: "",
+      question: "Sophia Nguyen",
+    },
+    {
+      label: "Henry Olson",
+      value: "",
+      question: "Henry Olson",
+    },
+    {
+      label: "Fernando Ortega",
+      value: "",
+      question: "Fernando Ortega",
+    },
+    {
+      label: "Joshua Schermann",
+      value: "",
+      question: "Joshua Schermann",
+    },
+    {
+      label: "Edison Simondet",
+      value: "",
+      question: "Edison Simondet",
+    },
+    {
+      label: "Raymond Spartz",
+      value: "",
+      question: "Raymond Spartz",
+    },
+    {
+      label: "Christopher Speltz",
+      value: "",
+      question: "Christopher Speltz",
+    },
+    {
+      label: "Shaun Sticka",
+      value: "",
+      question: "Shaun Sticka",
+    },
+    {
+      label: "Michael Tackett",
+      value: "",
+      question: "Michael Tackett",
+    },
+    {
+      label: "Michael Wegter",
+      value: "",
+      question: "Michael Wegter",
+    },
+    {
+      label: "Maxwell Winter",
+      value: "",
+      question: "Maxwell Winter",
+    },
+    {
+      label: "Alexander Wu",
+      value: "",
+      question: "Alexander Wu",
+    },
   ];
 
   var svg = d3
